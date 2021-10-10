@@ -11,4 +11,5 @@ of  the means using the “matplotlib” library. It also uses the Scipy package
 ## Simulation
 We simulate the Central Limit theorem using our two previously defined functions. We choose 4 different sample sizes (1, 30, 50 and 100). This simulation shows that as we increase the size of  the samples we take, the distribution of  the sample means becomes more normal and its variance decreases. Also, as the sample size increases, the density of  means around the population means increases. Thus we have demonstrated the Central Limit Theorem.
 
+
 ![image](https://user-images.githubusercontent.com/73672605/136712177-abcd3a48-a4ed-4bff-ba64-e9d3a63d67e6.png)
