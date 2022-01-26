@@ -1,4 +1,6 @@
 # MSDS 610: Central Limit Theorem
+## Author
+Jason Yu, Emma Rainer, Sunil Kumar J S, Roger Ren
 ## Explanation of the Central Limit Theorem
 The Central Limit Theorem is an important statistical concept that says that if you select sufficient random samples from a population the distribution of the sample means will be approximately normal and centered at the population mean. As the size of  the random samples increases, the resulting sampling distribution of the means will become narrower. This result is remarkable since it holds regardless of  the shape of  the underlying population distribution.
 ## Set Up the Example
